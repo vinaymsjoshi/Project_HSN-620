@@ -1,0 +1,1 @@
+In case the Project_HSN_620.ipynb file in this folder is not accessible, please access the code file through this google colab link: [https://colab.research.google.com/drive/15zOts6TqVGOWp6I7ijhRi0zhEpN-IiH5?authuser=1#scrollTo=0IYzrMK6nLm0 ](url)
